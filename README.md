@@ -1,4 +1,4 @@
-## 🤝 Bem vindo(a) ao meu perfil!
+## 🤝 Bem-vindo(a) ao meu perfil!
 
 ![Meus Status](https://github-readme-stats.vercel.app/api?username=luca-sena&show_icons=true&theme=radical)
 
