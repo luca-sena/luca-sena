@@ -1,6 +1,6 @@
-## 🤝 Opa, aqui é o Luca!
+## 🤝 Bem vindo(a) ao meu perfil!
 
-![Luca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luca-sena&show_icons=true&theme=radical)
+![Meus Status](https://github-readme-stats.vercel.app/api?username=luca-sena&show_icons=true&theme=radical)
 
 ## 📲 Minhas redes sociais:
 
@@ -17,4 +17,4 @@
        <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
     </div><br/>
 <br>
- 🐰 Why are you wearing that stupid man suit?
+ 🐰Why are you wearing that stupid man suit?
