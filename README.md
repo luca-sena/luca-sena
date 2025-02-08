@@ -1,6 +1,6 @@
 ## 🤝 Bem-vindo(a) ao meu perfil!
 
-![Meus Status](https://github-readme-stats-sigma-five.vercel.app/api?username=luca-sena&show_icons=true&theme=radical)
+![Meus Status](https://github-readme-stats.vercel.app/api?username=luca-sena&show_icons=true&theme=tokyonight)
 
 ## 📲 Minhas redes sociais:
 
